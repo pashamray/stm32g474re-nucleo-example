@@ -1,2 +1,3 @@
-# stm32g474re_nucleo_example
-stm32g474 nucleo examples
+# STM32G474RE Nucleo example
+
+This repository contains examples of working with peripheral devices.
