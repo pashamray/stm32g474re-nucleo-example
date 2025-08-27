@@ -6,6 +6,6 @@ This repository contains examples of working with peripheral devices.
 
 ### References
 
-https://www.st.com/en/evaluation-tools/nucleo-g474re.html
-https://www.st.com/en/development-tools/stm32cubeide.html
-https://www.st.com/en/embedded-software/x-cube-mcsdk.html
+- https://www.st.com/en/evaluation-tools/nucleo-g474re.html
+- https://www.st.com/en/development-tools/stm32cubeide.html
+- https://www.st.com/en/embedded-software/x-cube-mcsdk.html
