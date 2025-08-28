@@ -4,8 +4,21 @@ This repository contains examples of working with peripheral devices.
 
 ![board image](docs/large.avif)
 
+---
+
+### Clone
+
+```shell
+git clone --recurse-submodules https://github.com/pashamray/stm32g474re_nucleo_example
+```
+
+### Examples
+
+- [/examples/000_blink/](examples/000_blink/) - blink **LD2** (green LED) on **D13** (PA5) pin
+
 ### References
 
 - https://www.st.com/en/evaluation-tools/nucleo-g474re.html
 - https://www.st.com/en/development-tools/stm32cubeide.html
+- https://www.st.com/en/development-tools/stm32cubeprog.html
 - https://www.st.com/en/embedded-software/x-cube-mcsdk.html
