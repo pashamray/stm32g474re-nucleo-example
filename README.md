@@ -2,7 +2,7 @@
 
 This repository contains examples of working with peripheral devices.
 
-[board image](img/board.jpg)
+![board image](img/board.jpg)
 
 ---
 
