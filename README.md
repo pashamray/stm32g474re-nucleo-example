@@ -2,7 +2,7 @@
 
 This repository contains examples of working with peripheral devices.
 
-[board image](https://www.st.com/bin/ecommerce/api/image.PF267026.en.feature-description-include-personalized-no-cpn-large.jpg)
+[board image](img/board.jpg)
 
 ---
 
